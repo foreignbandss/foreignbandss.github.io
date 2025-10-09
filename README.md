@@ -1,1 +1,5 @@
-# foreignbandss.github.io
+# foreignbandss
+Welcome im bandss and i make websites with github. ive been on github for some time now.
+im from 🇺🇸.
+i work on open source prodjects including houselearning.github.io
+well thats me 
