@@ -5,7 +5,7 @@ i work on open source prodjects including houselearning.github.io and the quiz f
 
 -------------------------------
 
-# The Quiz Foundtion
+# The Quiz Foundation
 Welcome, i work on the quiz foundation and im the owner, some of my websites incude,
 
 [quiz-100](https://quiz-100.github.io) 
